@@ -1,10 +1,24 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Soundarya Soundararajan"
+image: "hello.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/soundaryasoundararajan"
+  - label: Twitter
+    url: "https://twitter.com/soundarya2410"
+  - label: GitHub
+    url: "https://github.com/soundarya24"
+  - label: Email
+    url: "mailto:soundarya24@gmail.com"
+output:
+  postcards::jolla
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+I am a Double Doc (Medicine & Ph.D.) living in Ahmedabad, India.
+
+I am an absolute R lover; I visualize data even in my dreams!! 
+I use R for exploratory data analysis, data visualization and reproducible research. I am a proud advocate of OpenScience!
