@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-02-01-welcome/",
+    "title": "welcome",
+    "description": "Trying my first blog.",
+    "author": [
+      {
+        "name": "Soundarya Soundararajan",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-01",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n\n\nnames(iris)\n\n\n[1] \"Sepal.Length\" \"Sepal.Width\"  \"Petal.Length\" \"Petal.Width\" \n[5] \"Species\"     \n\nggplot(iris,\n        aes(x=Sepal.Length,y=Petal.Length,color=Species))+\n  geom_point()+\n  theme_light()\n\n\n\n\nFigure 1: First plot in blog\n\n\n\n\n\n\n",
+    "preview": "posts/2021-02-01-welcome/welcome_files/figure-html5/firstplot-1.png",
+    "last_modified": "2021-02-01T12:49:26+05:30",
+    "input_file": {}
+  }
+]

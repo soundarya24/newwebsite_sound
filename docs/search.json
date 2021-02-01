@@ -5,7 +5,14 @@
       "title": "Soundarya Soundararajan",
       "author": [],
       "contents": "\n\n    \n    \n      \n        \n          \n            Soundarya Soundararajan\n          \n          \n            \n              I am a Double Doc (Medicine & Ph.D.) living in Ahmedabad, India.\n              I am an absolute R lover; I visualize data even in my dreams!! I use R for exploratory data analysis, data visualization and reproducible research. I am a proud advocate of OpenScience!\n            \n            \n              I am a Double Doc (Medicine & Ph.D.) living in Ahmedabad, India.\n              I am an absolute R lover; I visualize data even in my dreams!! I use R for exploratory data analysis, data visualization and reproducible research. I am a proud advocate of OpenScience!\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-02-01T12:41:06+05:30"
+      "last_modified": "2021-02-01T12:51:17+05:30"
+    },
+    {
+      "path": "blog.html",
+      "title": "My Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-01T12:51:17+05:30"
     },
     {
       "path": "index.html",
@@ -13,8 +20,8 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-01T12:41:07+05:30"
+      "last_modified": "2021-02-01T12:51:18+05:30"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
