@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-01T12:36:16+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "Soundarya's R Space",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-01T12:36:17+05:30"
+    }
+  ],
+  "collections": []
+}
